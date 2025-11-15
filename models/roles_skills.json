@@ -1,0 +1,15 @@
+{
+    "Data Scientist": ["Python", "SQL", "Machine Learning", "Statistics", "Data Visualization", "Deep Learning", "Pandas", "NumPy", "TensorFlow", "PyTorch", "Data Cleaning", "Feature Engineering"],
+    "Flutter Developer": ["Flutter", "Dart", "Firebase", "UI/UX Design", "REST API", "Git", "Provider", "Bloc", "Animations", "Widget Tree Management"],
+    "Backend Developer": ["Python", "Django", "REST API", "SQL", "Git", "PostgreSQL", "Docker", "FastAPI", "Microservices", "Linux"],
+    "Frontend Developer": ["HTML", "CSS", "JavaScript", "React", "Vue.js", "Responsive Design", "REST API", "Git", "Webpack", "UI/UX Principles", "Tailwind CSS"],
+    "Full Stack Developer": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "Python", "Django", "SQL", "MongoDB", "REST API", "Git", "Docker"],
+    "Machine Learning Engineer": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "Scikit-learn", "Data Preprocessing", "Model Deployment", "Cloud Services", "Git", "APIs"],
+    "DevOps Engineer": ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD", "Terraform", "Ansible", "Linux", "Git", "Monitoring", "Scripting"],
+    "AI Engineer": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "Natural Language Processing", "Computer Vision", "Model Optimization", "Data Engineering", "Git"],
+    "Cybersecurity Analyst": ["Network Security", "Ethical Hacking", "Penetration Testing", "Firewalls", "IDS/IPS", "Python", "Linux", "Wireshark", "Risk Assessment", "Incident Response"],
+    "Cloud Engineer": ["AWS", "Azure", "GCP", "Cloud Architecture", "Terraform", "Docker", "Kubernetes", "CI/CD", "Networking", "Linux", "Python"],
+    "Mobile App Developer": ["Android", "Kotlin", "iOS", "Swift", "Flutter", "Dart", "UI/UX Design", "Firebase", "REST API", "Git"],
+    "Data Analyst": ["Excel", "SQL", "Python", "Power BI", "Tableau", "Data Cleaning", "Data Visualization", "Statistics", "Reporting", "Dashboards"],
+    "Software Engineer": ["Java", "Python", "C++", "Git", "Agile Methodologies", "Unit Testing", "REST API", "OOP", "Data Structures", "Algorithms"]
+}

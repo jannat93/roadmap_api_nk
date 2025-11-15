@@ -1,0 +1,6 @@
+Flask
+flask-cors
+spacy
+pandas
+scikit-learn
+nltk
